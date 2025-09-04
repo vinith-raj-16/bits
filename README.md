@@ -1,1 +1,1 @@
-# bits
+# bitwise operator
